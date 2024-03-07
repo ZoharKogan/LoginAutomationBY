@@ -1,0 +1,12 @@
+step 1: zohar00kogan+1@gmail.com is log in! in Taken time: 6.12 seconds.
+step 2:  moving to- Skill: Test 21 - Copy
+step 3:  complete a Text Question
+step 4:  complete a Checkbox Question
+step 5:  complete a Choice question
+step 6:  complete a Checkbox Question
+step 7:  complete a Choice question
+step 8:  complete a Text Question
+step 9:  complete a Choice question
+step 10:  complete a Choice question
+step 11:  complete a Checkbox Question
+Skill: Test 21 - Copy completed by: zohar00kogan+1@gmail.com, in total time: 1.0 minutes and 56.51 second
